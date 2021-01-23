@@ -9,4 +9,10 @@ GDevelop is a 'no-code' platform, which compiles for Android, Web, Windows, macO
 Currently learning the system and all 'games' for now are just that, learning exercises.
 
 Ultimate goal is the Drinking Game, the brain-child of Robin Kluis.
+
+* Using 
+  * GDevelop
+  * MTTQ server
+  * Python with mariaDB to manage multi player
+* Running on Ubuntu at Digital Ocean
  
