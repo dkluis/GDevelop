@@ -18,3 +18,4 @@ Multi-Player Setup
   * mariaDB 
 * Running on Ubuntu at Digital Ocean
  
+NOTE:  All 'code' is in the .json file in the game's directory.   The rest of the files are resource files.
