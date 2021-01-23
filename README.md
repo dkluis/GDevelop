@@ -4,5 +4,9 @@
 
 ### Each Directory is a Game
 
-Currently in learning mode.
+GDevelop is a 'no-code' platform, which compiles for Android, Web, Windows, macOS, linux and iOS.
+
+Currently learning the system and all 'games' for now are just that, learning exercises.
+
+Ultimate goal is the Drinking Game, the brain-child of Robin Kluis.
  
