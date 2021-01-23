@@ -10,9 +10,11 @@ Currently learning the system and all 'games' for now are just that, learning ex
 
 Ultimate goal is the Drinking Game, the brain-child of Robin Kluis.
 
+Multi-Player Setup
 * Using 
   * GDevelop
   * MTTQ server
-  * Python with mariaDB to manage multi player
+  * Python
+  * mariaDB 
 * Running on Ubuntu at Digital Ocean
  
